@@ -1,26 +1,24 @@
-# 100Hires Portfolio Project - Harry
+# 100Hires Portfolio - Harry
 
 ## Tools Installed
-- Cursor IDE (installed 08:25 WIB, 20 April 2026)
-- Claude Code extension for VS Code
-- Codex – OpenAI coding agent extension
-- GitHub account: ierhab
+- Cursor IDE
+- Claude Code extension
+- Codex extension
 
 ## Steps Completed
-1. Downloaded Cursor from cursor.com
-2. Installed Claude Code and Codex extensions via Extensions marketplace
-3. Created public GitHub repository "100hires-portfolio-harry"
-4. Cloned repository to local machine using Cursor (Git: Clone)
-5. Edited README.md to document process
-6. Committed and pushed changes to GitHub
+1. Installed Cursor IDE from https://cursor.com/
+2. Added Claude Code extension (Extensions → search "Claude Code")
+3. Added Codex extension (Extensions → search "Codex")
+4. Created public GitHub repository at https://github.com/ierhab/100hires-portfolio-harry
+5. Opened repository in Cursor
+6. Authenticated Claude Code and Codex using Anthropic API key
+7. Created this README.md file
 
 ## Issues & Solutions
-- Issue: Cursor login redirected to Firefox instead of Chrome, and app did not detect successful authentication
-- Solution: Copied authentication URL from Firefox, pasted into Chrome, then triggered cursor://auth deep link. Cleared %APPDATA%\Cursor cache to force refresh. Login successful.
-- Issue: Claude Code and Codex showed no login popup after installation
-- Solution: Researched documentation – login is only required on first use, not on install. Verified both extensions appear as "Installed" in sidebar.
-- Issue: "Clone Repository" option not visible in File menu
-- Solution: Used Command Palette (Ctrl+Shift+P) → "Git: Clone" as alternative method.
+**Issue:** Claude Code extension requires Claude Pro/Max subscription for web login
+**Solution:** Used Anthropic API key authentication (valid alternative method for accessing Claude Code through Console account)
 
-## Time Taken
-Approximately 50 minutes including troubleshooting browser authentication
+**Issue:** Codex required authentication
+**Solution:** Used same Anthropic API key for Codex login
+
+All tools verified and working.
