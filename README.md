@@ -1,24 +1,22 @@
 # 100Hires Portfolio - Harry
 
-## Tools Installed
+## What I Installed
 - Cursor IDE
-- Claude Code extension
+- Claude Code extension  
 - Codex extension
 
-## Steps Completed
-1. Installed Cursor IDE from https://cursor.com/
-2. Added Claude Code extension (Extensions → search "Claude Code")
-3. Added Codex extension (Extensions → search "Codex")
-4. Created public GitHub repository at https://github.com/ierhab/100hires-portfolio-harry
-5. Opened repository in Cursor
-6. Authenticated Claude Code and Codex using Anthropic API key
-7. Created this README.md file
+## What I Did
+1. Installed Cursor IDE
+2. Added Claude Code and Codex extensions
+3. Set up a GitHub repo: https://github.com/ierhab/100hires-portfolio-harry
+4. Opened it in Cursor
+5. Authenticated Claude Code using Anthropic API key
+6. Wrote this README
 
-## Issues & Solutions
-**Issue:** Claude Code extension requires Claude Pro/Max subscription for web login
-**Solution:** Used Anthropic API key authentication (valid alternative method for accessing Claude Code through Console account)
+## What Got in the Way
 
-**Issue:** Codex required authentication
-**Solution:** Used same Anthropic API key for Codex login
+**Claude Code Login** — Web login needs Pro/Max, so I switched to Anthropic API key from Console. No blocker after that.
 
-All tools verified and working.
+**Codex** — Requires separate OpenAI credentials. Extension installed and verified in Cursor, ready once API key is added.
+
+Setup is complete and ready for use.
