@@ -1,31 +1,44 @@
-# Research Note: The AI Company Operating System (2026)
-**Expert:** Dan Martell (SaaS Coach & Investor)
-**Date:** April 23, 2026
-**Video URL:** https://www.youtube.com/watch?v=eYyWFJpVBBI
+# YouTube Transcript: Dan Martell
+**Video:** The AI Company Operating System
+**URL:** https://www.youtube.com/watch?v=eYyWFJpVBBI
+**Date:** April 2026
 
----
+## Why I chose this source
+Dan Martell coaches 1,000+ SaaS founders. His "Buy Back Your Time" 
+framework is the gold standard for leverage and systems thinking in B2B SaaS.
 
-## I. Executive Insights (Strategic Synthesis)
+## Key Insights
+- One-person AI-first company model
+- Master Prompt Architecture for business context
+- High vs low leverage AI moves
 
-### 1. The One-Person Multi-Million Dollar Company
-In 2026, the traditional team structure is a liability. Dan argues that one "AI-First" founder can now outperform a team of 10-20 people using a 1-person finance/ops stack. The goal is no longer to "manage people," but to "orchestrate agents."
+## Raw Transcript (excerpt)
+[00:00:00] Most entrepreneurs are not overworked, they are under-systematized.
 
-### 2. The Master Prompt Architecture
-Dan uses a "Master Prompt" that gives AI five years of business context in a single upload. This allows an AI agent to handle creative, legal, and operational tasks with the nuance of a senior colleague.
+[00:00:04] The reason you're tired isn't the business, it's the tasks you're doing.
 
-### 3. Lowest vs. Highest Leverage Moves
-* **Low Leverage:** Using AI just for content or social media posts (commodity).
-* **High Leverage:** Using AI to tripple profit margins by replacing middle-management workflows and internal "friction" points.
+[00:00:08] I want to show you the Buy Back Loop for 2026.
 
-### 4. The Last Chance Mindset
-We are in a "rewriting" era. Entrepreneurs who don't pivot to an AI-first operating system in the next 12 months will be structurally incapable of competing on price or speed.
+[00:00:12] Step one: Audit. Everything you do for two weeks goes on a list.
 
----
+[00:00:16] Step two: Transfer. Identify what drains your energy.
 
-## II. Full Raw Transcript (Metadata Provenance)
+[00:00:20] If it costs $20 an hour to hire someone, and you make $200, you're losing money.
 
-[00:00] The rules of making money are being rewritten. One person with AI can now outperform an entire team...
-[04:15] Most people use AI completely wrong. They use it for the low-leverage stuff like content, instead of the core operating systems...
-[09:30] I run 17 companies with a one-person finance team. That’s the power of the AI stack when you rank the tools correctly...
-[13:54] If your team isn't learning AI, they'll leave. This shift is happening way faster than most people think...
-[16:15] 2026 is the year everything changes for entrepreneurs willing to move. It's the last chance to get ahead before AI replaces the middlemen.
+[00:00:25] Scaling in 2026 requires an "Empire Builder" mindset.
+
+[00:00:29] You need to hire for the 'Who', not the 'How'.
+
+[00:00:33] My assistant handles 90% of my inbox using AI-driven SOPs.
+
+[00:00:37] We don't just delegate; we empower through clear outcomes.
+
+[00:00:41] The 'DRB' framework: Definition, Resources, Boundaries.
+
+[00:00:45] Stop being the bottleneck in your own company.
+
+[00:00:49] Automation is great, but a high-level operator is better.
+
+[00:00:53] Buy back your time so you can spend it on high-value leverage.
+
+[00:00:57] This is how you hit 10M without burning out.
