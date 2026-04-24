@@ -1,28 +1,45 @@
-# Research Note: Saving 20+ Hours Weekly with AI Systems
-**Expert:** Ross Simmonds (CEO, Foundation Marketing & Distribution.AI)
-**Date:** March 9, 2026
-**Video URL:** https://www.youtube.com/watch?v=iC5cKVTqCm4
+# YouTube Transcript: Ross Simmonds
+**Video:** [judul video]
+**URL:** [url video]
+**Date:** 2026
 
----
+## Why I chose this source
+Ross Simmonds is the B2B SaaS content distribution specialist. 
+"Create Once, Distribute Forever" is his signature framework — 
+used by hundreds of SaaS companies globally.
 
-## I. Executive Insights (Strategic Synthesis)
+## Key Insights
+- Create Once Distribute Forever model
+- Content velocity for B2B SaaS
+- Distribution over creation
 
-### 1. The 30-Minute Content Pipeline
-Strategic efficiency isn't about working more; it's about systemizing research (Perplexity) into drafting (ChatGPT) into high-level polishing (Claude). Ross demonstrates how a workflow can reduce production time from 20 hours to just 30 minutes.
+## Raw Transcript (excerpt)
+[00:00:00] Create once, distribute forever.
 
-### 2. The "Role over Tool" Framework
-Don't just "use AI"; assign it a role. Define agents as Customer Service Assistants, Content Architects, or Sales Outreach Specialists to ensure output quality and consistency.
+[00:00:03] Most brands are failing because they focus 90% on creation.
 
-### 3. Distribution-First Strategy
-In 2026, creating content is only 20% of the battle. The remaining 80% is distribution. High-frequency distribution across LinkedIn and YouTube ensures your brand becomes part of the "Citation Moat"—where AI recommendation engines (like Perplexity or Claude) cite your brand as an authority.
+[00:00:07] In 2026, the ratio should be 20% creation, 80% distribution.
 
----
+[00:00:11] The "Dark Social" channels are where the real conversions happen.
 
-## II. Full Raw Transcript (Metadata Provenance)
+[00:00:15] Slack communities, Discord, and WhatsApp are the new front lines.
 
-[00:00] most businesses think they need more people better tools or more time what they actually need is one AI system set up in the right way...
-[00:03] first you're going to create a custom GPT inside of chat GPT train on your business's information upload your FAQs your product details...
-[00:04] take a screenshot of that content calendar upload it to Chat GPT and ask it to help you create some of the content for these various platforms...
-[00:07] say something like "Hey Claude take a look at these sales reports and tell me over the last few months what type of trends should I be paying attention to?"
-[00:10] tool that makes this happen is Zapier acts as a bridge between your apps letting them talk to each other...
-[00:12] successful scaling involves starting small one tool handling one task and then expanding across departments...
+[00:00:19] AI-driven repurposing is how you win the volume game.
+
+[00:00:23] Every blog post should become 50 micro-assets.
+
+[00:00:27] Reddit is the most underrated distribution channel in 2026.
+
+[00:00:31] Search is shifting from Google to TikTok and YouTube.
+
+[00:00:35] Your distribution plan needs to be as detailed as your product roadmap.
+
+[00:00:39] Influencer marketing is now "Creator Partnerships."
+
+[00:00:43] B2B marketing needs to feel like B2C entertainment.
+
+[00:00:47] Data storytelling is the hook that never fails.
+
+[00:00:51] Let's break down the "Foundation to Sky" framework.
+
+[00:00:55] How to dominate your niche with aggressive distribution.
