@@ -1,8 +1,8 @@
 # YouTube Transcript: Codie Sanchez
-**Video:** How to Build a Business in 2026
+**Video:** If I Wanted to Build a Business for $0 in 2026, I’d Do This…
 **URL:** https://www.youtube.com/watch?v=GWoABwqXl5A
-**Date:** January 4, 2026
-**Duration:** ~25 mins
+**Date:** 2026
+**Duration:** ~20 mins
 
 ## Why I chose this source
 Codie Sanchez is a practitioner — she actually buys and operates businesses, 
