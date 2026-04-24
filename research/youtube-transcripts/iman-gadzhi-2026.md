@@ -1,7 +1,8 @@
 # YouTube Transcript: Iman Gadzhi
-**Video:** [judul video]
-**URL:** [url video]
+**Video:** Laziest One-Person Business Model To Start in 2026 ($100/day+)
+**URL:** https://www.youtube.com/watch?v=HXgbEMBhRx0
 **Date:** 2026
+**Duration:** 34.47 mins
 
 ## Why I chose this source
 Iman Gadzhi built a multi-million dollar agency at 18. 
