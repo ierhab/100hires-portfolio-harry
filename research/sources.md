@@ -1,18 +1,26 @@
-# 📚 Research Sources: B2B SaaS & AI Automation (2026)
+# 📚 Research Sources: LinkedIn Organic Content Strategy for B2B SaaS
 
-| # | Expert | Platform | Strategic Focus | Annotation |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | **Sam Altman** | YouTube | AI Infrastructure | CEO of OpenAI. Provides the vision for agentic workflows and $1B one-person companies. |
-| 2 | **Dan Martell** | YouTube | SaaS Scaling | Author of 'Buy Back Your Time'. Essential for systems-driven growth and founder productivity. |
-| 3 | **Justin Welsh** | LinkedIn | Content OS | The gold standard for organic reach and building a diversified solopreneur business on LinkedIn. |
-| 4 | **Dickie Bush** | LI / YT | Digital Writing | Founder of Ship 30 for 30. Expert in niche-down frameworks and 'Offer Stacking' logic. |
-| 5 | **Codie Sanchez** | YouTube | Cash Flow Systems | Focused on 'Boring Businesses'. Expert in injecting AI into service operations to increase margins. |
-| 6 | **Iman Gadzhi** | YouTube | AAA Monetization | Leading voice in the AI Automation Agency (AAA) space and building high-ticket service models. |
-| 7 | **Bridget O'Neill** | YouTube | Marketing Trends | HubSpot's lead strategist. Provides data-backed insights on the 2026 state of marketing and AEO. |
-| 8 | **Sabri Suby** | YouTube | Sales Psychology | Founder of King Kong. Expert in 'Godfather Offers' and high-stakes advertising architecture. |
-| 9 | **Ross Simmonds** | LI / YT | Distribution | B2B SaaS specialist. Known for the 'Create Once, Distribute Forever' model and content velocity. |
-| 10 | **TK Kader** | YouTube | SaaS GTM | Former founder (ToutApp). Provides rigorous Go-To-Market frameworks for high-growth SaaS. |
-| 11 | **Kyle Balmer** | YouTube | AI Economics | Expert in how AI impacts creative industries, focusing on workflow efficiency and output. |
+**Topic:** LinkedIn Organic Content Strategy for B2B SaaS
+**Collected:** April 25, 2026
+**Total Sources:** 10 (7 YouTube + 3 LinkedIn)
 
 ---
-**Technical Note:** All sources verified for April 2026 relevance. Transcripts processed via Supadata API; LinkedIn insights synthesized from recent activity feeds using Gemini 1.5 Pro.
+
+| # | Expert | Platform | File | Strategic Focus | Why Selected |
+|---|---|---|---|---|---|
+| 1 | **Dan Martell** | YouTube + LinkedIn | dan-martell-2026.md / dan-martell-linkedin.md | SaaS Scaling & Buyback | Author of Buy Back Your Time. 3x exits, coaches 1000+ SaaS founders. Practitioner not theorist. |
+| 2 | **Justin Welsh** | YouTube + LinkedIn | justin-welsh-2026.md / justin-welsh-linkedin.md | Solopreneur Content OS | Built $10M+ one-person business from LinkedIn alone. Most credible voice on organic B2B content. |
+| 3 | **Dickie Bush** | YouTube + LinkedIn | dickie-bush-2026.md / dickie-bush-posts.md | Digital Writing Systems | Founder of Ship 30 for 30. Expert in offer stacking and content-to-product frameworks. |
+| 4 | **Ross Simmonds** | YouTube | ross-simmonds-2026.md | Content Distribution | B2B SaaS distribution specialist. "Create Once, Distribute Forever" used by hundreds of SaaS companies. |
+| 5 | **Iman Gadzhi** | YouTube | iman-gadzhi-2026.md | AI Business Models | Built multi-million agency before age 20. Leading voice on AI Automation Agency model. |
+| 6 | **Kyle Balmer** | YouTube | kyle-balmer-2026.md | AI Economics | Covers practical AI cost and workflow implications for creators and knowledge workers. |
+| 7 | **HubSpot / Bridget O'Neill** | YouTube | hubspot-marketing-2026.md | B2B Marketing Trends | HubSpot's 2026 State of Marketing Report — most cited data-backed study in B2B marketing. |
+| 8 | **Codie Sanchez** | YouTube | codie-sanchez-2026.md | Cash Flow & AI Systems | Practitioner who actually buys and operates businesses. Expert in AI agentic workflows for SMB. |
+| 9 | **Dickie Bush** | YouTube | dickie-bush-2026.md | Goal-Setting Systems | Math-based business growth framework directly applicable to B2B SaaS metrics and bottleneck analysis. |
+| 10 | **Dan Martell** | YouTube | dan-martell-2026.md | Leadership & Delegation | WealthCon presentation on Buyback Principle and Replacement Ladder for scaling SaaS teams. |
+
+---
+
+**Note:** All content manually collected from YouTube transcripts and LinkedIn activity feeds.
+LinkedIn posts copied directly from author profiles on April 25, 2026.
+YouTube transcripts extracted via YouTube's built-in transcript feature.
