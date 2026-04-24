@@ -1,25 +1,44 @@
-# Research Note: AI Workflow Efficiency & Frontier Model Economics
-**Expert:** Kyle Balmer (AI Strategy)
-**Date:** April 24, 2026
-**Video URL:** https://www.youtube.com/watch?v=dFt_US3X4oY
+# YouTube Transcript: Kyle Balmer
+**Video:** [judul video]
+**URL:** [url video]
+**Date:** 2026
 
----
+## Why I chose this source
+Kyle Balmer focuses on AI economics and workflow efficiency 
+for creative and knowledge workers. Practical, not theoretical.
 
-## I. Executive Insights (Strategic Synthesis)
+## Key Insights
+- AI impact on creative industries
+- Workflow efficiency frameworks
+- Output vs input leverage
 
-### 1. Tool Specialization
-Claude is the "Planning Engine" for high-complexity, multi-hour projects. Codex is the "Execution Engine" for rapid templates and landing pages. Efficiency comes from matching the task to the model's cognitive strength.
+## Raw Transcript (excerpt)
+[00:00:00] Prompting is not a skill; it's a conversation with logic.
 
-### 2. The $100/mo Baseline
-The professional AI market has moved beyond $20/month. The new operational standard for builders in 2026 is the $100 "Pro" tier, as Frontier models prioritize high-margin Enterprise and API users.
+[00:00:04] In 2026, we don't write prompts; we build "Logic Frameworks."
 
-### 3. Macro Constraint: Energy
-AI progress is no longer limited by code, but by electricity. China's massive lead in power generation provides a structural advantage for SOTA model inference and scaling.
+[00:00:08] If you're using simple sentences, you're getting average results.
 
----
+[00:00:12] The "Chain of Thought" reasoning is now built-in, but needs direction.
 
-## II. Full Raw Transcript (Metadata Provenance)
-[00:00] I use Claude for big chunky projects where I want it to think in detail.
-[02:14] The new base level for serious users is $100 a month.
-[05:22] China generated more electricity in 2024 than the US, EU, and India combined.
-[10:06] SOTA models are always 6 months ahead of open source.
+[00:00:16] I want to show you how to use AI for high-level market research.
+
+[00:00:20] Analyzing 1,000 Amazon reviews in 10 seconds to find pain points.
+
+[00:00:24] The "Persona-First" strategy for brand consistency.
+
+[00:00:28] Automating the "Boring" stuff so you can do the "Human" stuff.
+
+[00:00:32] AI isn't going to take your job; a human using AI will.
+
+[00:00:36] Let's look at the "Recursive Prompting" technique.
+
+[00:00:40] How to build custom GPTs that actually solve business problems.
+
+[00:00:44] 2026 is the year of "Niche AI Solutions."
+
+[00:00:48] Stop asking AI to "write an essay" and start asking it to "simulate a CEO."
+
+[00:00:52] Technical prompting is the new literacy.
+
+[00:00:56] Mastering the feedback loop is where the magic happens.
