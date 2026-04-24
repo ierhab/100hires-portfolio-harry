@@ -1,6 +1,6 @@
 # YouTube Transcript: Kyle Balmer
-**Video:** [judul video]
-**URL:** [url video]
+**Video:** The Economics of AI & Workflow Efficiency for Creators
+**URL:** https://www.youtube.com/watch?v=9S1uximENdM
 **Date:** 2026
 
 ## Why I chose this source
