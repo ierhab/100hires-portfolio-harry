@@ -1,27 +1,29 @@
-# Research Note: Building from $0 with Signals (2026)
-**Expert:** Codie Sanchez (Founder of Contrarian Thinking)
+# YouTube Transcript: Codie Sanchez
+**Video:** How to Build a Business in 2026
+**URL:** https://www.youtube.com/watch?v=GWoABwqXl5A
 **Date:** January 4, 2026
-**Video URL:** https://www.youtube.com/watch?v=GWoABwqXl5A
+**Duration:** ~25 mins
 
----
+## Why I chose this source
+Codie Sanchez is a practitioner — she actually buys and operates businesses, 
+not just talks about them. This video covers agentic workflows and 
+pre-selling before building, directly relevant to B2B SaaS growth strategy.
 
-## I. Executive Insights (Strategic Synthesis)
+## Key Insights
+- Sell first, build second
+- Agentic workflows for service businesses
+- SIGNALS framework for business selection
 
-### 1. The SIGNALS Framework
-In 2026, building a business isn't about talent; it's about speed and market math. Codie uses the SIGNALS acronym to identify winners: **S**peed (UDA Loop), **I**ndustry Selection, **G**enerational Transfer (Boomer Exit), **N**eeds-based Cash Flow, **A**ffluent Clients, **L**everage (Distribution), and **S**ystems (AI).
-
-### 2. Sell First, Build Second
-Don't wait for permits or trucks. Use a "Facebook Rant" or a simple landing page to pre-sell your service. If you can get to $10k in monthly revenue before buying equipment, you've won. Use WebFlow, Stripe, and AI to move from idea to launch in 24 hours.
-
-### 3. Agentic Workflows for Service Businesses
-The real money in 2026 is in "Agentic Workflows"—having AI agents that troubleshoot, re-attempt, and learn from their mistakes in the background. It’s not about using AI; it’s about architecting systems where AI manages the repetitive friction points.
-
----
-
-## II. Full Raw Transcript (Metadata Provenance)
-
-[00:00] 65% of businesses fail, but that's only true if you pick the wrong type of business. In 2026, your advantage is speed...
-[01:50] Spencer Scott pre-sold $13,000 in monthly garbage hauling before he ever bought a truck. Sell first, build second...
-[04:35] 52% of business owners are near retirement with no exit plan. That is where money goes to be made...
-[15:43] Agentic Workflows are the key. The AI agent gathers info, executes diagnostics, and iterates based on results without you asking...
-[20:13] 2026 will be your richest year yet if you move faster than everyone else and layer systems on top of cash flow.
+## Raw Transcript (excerpt)
+[00:00:00] 65% of businesses fail in 10 years but that's only true
+[00:00:05] if you pick the wrong type of business so how do you pick the right
+[00:00:08] business that's more likely to succeed i want to start with the data
+[00:00:11] and tell you exactly what I'd do if I lost it all and how to start over tomorrow
+[00:00:15] by the way I'm Cody Sanchez founder of Contrarian Thinking
+[00:00:18] and we've built dozens of businesses so let me let you steal our
+[00:00:22] homework so you can build without much cash or talent
+[00:00:25] the framework that I'm going to talk about today is called signals
+[00:00:29] and this is the number one way to grow your wealth in 2026
+[00:00:33] let's start with the S in 2026 your biggest advantage isn't talent
+[00:00:38] it's not capital it's speed and that's the first S in signal
+[00:00:43] how we think about this is called the udaloop framework
