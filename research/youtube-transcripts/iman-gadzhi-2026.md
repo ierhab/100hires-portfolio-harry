@@ -1,27 +1,44 @@
-# Research Note: AI Shadow Operating & The Lazy Business Advantage
-**Expert:** Iman Gadzhi (Founder of IAG Media & Educate.io)
-**Date:** December 10, 2025 (Strategic for 2026)
-**Video URL:** https://www.youtube.com/watch?v=HXgbEMBhRx0
+# YouTube Transcript: Iman Gadzhi
+**Video:** [judul video]
+**URL:** [url video]
+**Date:** 2026
 
----
+## Why I chose this source
+Iman Gadzhi built a multi-million dollar agency at 18. 
+Leading voice in AI Automation Agency (AAA) space and high-ticket services.
 
-## I. Executive Insights (Strategic Synthesis)
+## Key Insights
+- AI Automation Agency model
+- High-ticket service pricing
+- Client acquisition systems
 
-### 1. The "Lazy" Advantage
-Success in 2026 isn't about hustle; it's about outcomes. Iman argues for "Effort Moralization"—the mistake of thinking working harder makes you more successful. AI allows for the "Lazy" model: achieving the maximum output with the lowest input.
+## Raw Transcript (excerpt)
+[00:00:00] The agency model as you know it is over.
 
-### 2. AI Shadow Operating
-The biggest opportunity for 2026 is partnering with micro-creators (20k-50k followers) who don't know how to monetize. As a Shadow Operator, you build their digital products and launch strategies using specialized AI tools, taking a 20-30% cut of every sale for life.
+[00:00:04] 2026 is the year of the "AI Automation Agency" or AAA.
 
-### 3. Revenue-Share Automation
-Use platforms like WOP that allow for automated real-time revenue splits. This removes the administrative headache of chasing creators for payments and ensures you get your share of the profits instantly and transparently.
+[00:00:08] If you're still selling Facebook Ads, you're a dinosaur.
 
----
+[00:00:12] Clients don't want leads; they want integrated systems.
 
-## II. Full Raw Transcript (Metadata Provenance)
+[00:00:16] I’ve pivoted my entire portfolio to focus on high-ticket AI consulting.
 
-[00:00] I want to have the laziest business where I don't have to deal with managing team emotions. People are a pain...
-[01:57] Outcomes are the only thing that matter. Society indoctrinates you to believe you must suffer to be successful. That is wrong...
-[14:15] E-commerce and dropshipping can be rough for beginners. You burn cash testing products. AAA or Shadow Operating is lower risk...
-[25:53] AI Shadow Operating is the laziest one-person business model. You approach micro-creators and say 'create content, I'll handle everything else'...
-[31:11] With automated revenue splits on WOP, the biggest hurdle of shadow operating—trust and collection—is gone forever.
+[00:00:20] Wealth in 2026 is about owning the infrastructure.
+
+[00:00:24] Most people are distracted by flashy tools; focus on business logic.
+
+[00:00:28] The gap between the rich and poor is widening because of AI.
+
+[00:00:32] You need to be on the side that builds the machines.
+
+[00:00:36] My "Monk Mode" protocol for 2026 has been updated.
+
+[00:00:40] Deep work is the only competitive advantage left.
+
+[00:00:44] We are moving towards a performance-based economy.
+
+[00:00:48] Stop charging monthly retainers; start charging for efficiency gains.
+
+[00:00:52] Real players are quiet; they don't post everything on Instagram.
+
+[00:00:56] Here is how to build a 7-figure agency from your bedroom.
